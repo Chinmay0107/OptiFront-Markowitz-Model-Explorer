@@ -1,10 +1,10 @@
 # OptiFront-Markowitz-Model-Explorer
 Model to optimize investment portfolios, enabling users to visualize efficient frontiers and identify optimal asset allocations based on risk and return profiles
 
-Overview
+Overview:-
 This project implements the Markowitz model, also known as Modern Portfolio Theory (MPT), which provides a mathematical framework for assembling a portfolio of assets to maximize expected return for a given level of risk. The model emphasizes the benefits of diversification and introduces the concept of the efficient frontier.
 
-Features
+Features:-
 Calculation of expected portfolio return
 Calculation of portfolio risk (variance and standard deviation)
 Optimization of asset weights to achieve the best risk-return trade-off
